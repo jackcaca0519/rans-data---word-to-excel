@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "go": "node app.js"
+    },
+    "dependencies": {
+        "xlsx": "^0.18.5"
+    }
+}
